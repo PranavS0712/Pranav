@@ -1,0 +1,7 @@
+IDE - Integrated Development Environment
+FIFO - First In, First Out
+SaaS - Software as a Service
+PaaS - Platform as a Service
+IaaS - Infrastructure as a Service
+ML-Machine Learning
+AI-Artificial Intelligence
